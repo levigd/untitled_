@@ -1,0 +1,10 @@
+^D:\UNTITLED\CMAKE-BUILD-RELEASE\CMAKEFILES\DD9B8088487CBC154FB3889B928F3E7E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\JetBrains\CLion 2024.3.1.1\bin\cmake\win\x64\bin\cmake.exe" -SD:/untitled -BD:/untitled/cmake-build-release --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/untitled/cmake-build-release/untitled.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

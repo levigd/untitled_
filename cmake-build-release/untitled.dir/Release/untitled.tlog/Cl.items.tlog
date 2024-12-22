@@ -1,0 +1,13 @@
+D:\untitled\main.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\main.obj
+D:\untitled\Gui\Gui.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\Gui.obj
+D:\untitled\Gui\Dx11Wrapper.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\Dx11Wrapper.obj
+D:\untitled\ImgWrapper\ImgWrapper.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\ImgWrapper.obj
+D:\untitled\Libs\ImGui\imgui.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\imgui.obj
+D:\untitled\Libs\ImGui\imgui_demo.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\imgui_demo.obj
+D:\untitled\Libs\ImGui\imgui_draw.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\imgui_draw.obj
+D:\untitled\Libs\ImGui\imgui_impl_dx11.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\imgui_impl_dx11.obj
+D:\untitled\Libs\ImGui\imgui_impl_win32.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\imgui_impl_win32.obj
+D:\untitled\Libs\ImGui\imgui_tables.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\imgui_tables.obj
+D:\untitled\Libs\ImGui\imgui_widgets.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\imgui_widgets.obj
+D:\untitled\Libs\ImPlot\implot.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\implot.obj
+D:\untitled\Libs\ImPlot\implot_items.cpp;D:\untitled\cmake-build-release\untitled.dir\Release\implot_items.obj
